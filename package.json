@@ -4,7 +4,7 @@
   "description": "Сайт по продвижению в Санкт-Петербурге",
   "main": "index.js",
   "dependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.27.10"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
